@@ -1,23 +1,26 @@
 # Sajid Nur Chowdhury
 
-MSc student in Statistics, Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh. Research assistant, Department of Statistics, MBSTU.
+MSc student in Statistics and research assistant, Department of Statistics, Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh.
 
-Focus: survival analysis and statistical learning for cancer genomics, leakage-aware validation, and sensitivity of genomic and survey estimates to analysis choices.
+**Research focus:** survival analysis and statistical learning for cancer genomics, leakage-aware validation, and how analysis choices change statistical conclusions.
 
-ORCID: https://orcid.org/0009-0004-5968-845X
+[ORCID](https://orcid.org/0009-0004-5968-845X) | [LinkedIn](https://www.linkedin.com/in/sajid-noor-66a4b3255)
 
-## Papers and replication packages
+## Manuscripts
 
-Code and data are on Zenodo where a package exists. Status as of November 2026.
+Status as of November 2026. Code and data are on Zenodo; each paper's repository links its package.
 
-### Under peer review
+| Status | Title | Venue | Repository |
+|---|---|---|---|
+| Under review | Guide RNA abundance is a state-dependent, noisy proxy for perturbation dose in single-cell CRISPR screens | PLOS Computational Biology | [crispr-guide-rna-dose](https://github.com/Sajid-CN/crispr-guide-rna-dose) |
+| Submitted | Internal inflation and external transport of analytical leakage in survival transcriptomics | Scientific Reports | [survival-leakage-transcriptomics](https://github.com/Sajid-CN/survival-leakage-transcriptomics) |
+| Submitted | Why do sites disagree? Attributing coefficient displacement to an availability mechanism from site-level regression summaries | Biometrical Journal | [sites-coefficient-displacement](https://github.com/Sajid-CN/sites-coefficient-displacement) |
+| Submitted | Published gut-microbiome species claims modestly exceed prevalence- and abundance-matched null taxa | Research Synthesis Methods | [microbiome-selection-audit](https://github.com/Sajid-CN/microbiome-selection-audit) |
+| Submitted | Sensitivity of structural-variant novelty fractions to matching rules: Korean K-PanRef against the HPRC Release 2 CHM13 pangenome reference | PeerJ | [pangenome-sv-novelty](https://github.com/Sajid-CN/pangenome-sv-novelty) |
+| Submitted | Deaths associated with delayed access to elexacaftor/tezacaftor/ivacaftor in Europe | Journal of Cystic Fibrosis | [cf-eti-delay-europe](https://github.com/Sajid-CN/cf-eti-delay-europe) |
 
-- Guide RNA abundance is a state-dependent, noisy proxy for perturbation dose in single-cell CRISPR screens. PLOS Computational Biology. Code and data: https://doi.org/10.5281/zenodo.23746519
+The pangenome study is retrospectively registered on the Open Science Framework: [doi:10.17605/OSF.IO/5ZVR6](https://doi.org/10.17605/OSF.IO/5ZVR6).
 
-### Submitted
+## Contact
 
-- Internal inflation and external transport of analytical leakage in survival transcriptomics. Scientific Reports. Code and data: https://doi.org/10.5281/zenodo.23805434
-- Why do sites disagree? Attributing coefficient displacement to an availability mechanism from site-level regression summaries. Biometrical Journal. Code and data: https://doi.org/10.5281/zenodo.23877000
-- Published gut-microbiome species claims modestly exceed prevalence- and abundance-matched null taxa: an abstract-level selection audit across six diseases. Research Synthesis Methods. Code and data: https://doi.org/10.5281/zenodo.23907537
-- Sensitivity of structural-variant novelty fractions to matching rules: Korean K-PanRef against the HPRC Release 2 CHM13 pangenome reference. PeerJ. Code and data: https://doi.org/10.5281/zenodo.24099989. Retrospectively registered on OSF: https://doi.org/10.17605/OSF.IO/5ZVR6
-- Deaths associated with delayed access to elexacaftor/tezacaftor/ivacaftor in Europe: a natural experiment across 39 countries, 2014-2022. Journal of Cystic Fibrosis. Code and data: https://doi.org/10.5281/zenodo.24117124
+Email and CV on request.
